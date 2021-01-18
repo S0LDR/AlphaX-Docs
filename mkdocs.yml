@@ -1,0 +1,19 @@
+site_name: Alpha X Documentation
+
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
+
+nav:
+  - index.md
+  - supported.md
+  - Games:
+    - Introduction: Games/Bloxburg/intro.md
+    - Auto Build: Games/Bloxburg/autobuild.md
