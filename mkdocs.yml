@@ -12,11 +12,15 @@ theme:
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
+  - stylesheets/styles.css
 
 markdown_extensions:
   - meta
   - pymdownx.highlight
   - pymdownx.superfences
+
+plugins:
+  - search
 
 nav:
   - index.md
