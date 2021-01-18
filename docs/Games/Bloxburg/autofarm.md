@@ -1,10 +1,10 @@
 # Autofarm
 
 ## Hairdresser
-
+To use the Hairdresser autofarm you must go to the hairdreser location on the map, once you are there activate the hairdresser autofarm by clicking the hairdresser switch on the gui. Once you activate it go over to a chair and customers should start coming to the chair and the work will be automated.
 
 ## Pizza Delivery
-
+To use the pizza delivery autofarm you must go to the pizza bike at the pizza place, then activate the script and turn on the pizza autofarm and it will fly you up into the air and automatically deliver pizzas for you.
 
 
 ## Bloxy Burger Cashier
