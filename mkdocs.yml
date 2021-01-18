@@ -6,8 +6,8 @@ theme:
   favicon: images/favicon.png
   logo: assets/logo.png
   palette:
-    primary: 'green'
-    accent: 'light green'
+    primary: 'white'
+    accent: 'gray'
 
 extra_css:
   - stylesheets/dark_theme.css

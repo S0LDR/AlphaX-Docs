@@ -21,3 +21,15 @@ loadstring(game:HttpGet("https://alpha1004.tech/scripts/AlphaX.lua"))()
 ## Notes
 
 > We are not responsible for any bans that may occur due to you using the script.
+
+## Donate
+
+If you would like to donate, please do! It really helps the developers pay for costs of hosting the script API and other things.
+
+> PayPal
+
+applebee needs to give me it
+
+> Bitcoin
+
+applebee also has to give me this too
