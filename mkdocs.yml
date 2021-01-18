@@ -15,5 +15,7 @@ nav:
   - index.md
   - supported.md
   - Games:
-    - Introduction: Games/Bloxburg/intro.md
-    - Auto Build: Games/Bloxburg/autobuild.md
+    - Bloxburg:
+      - Introduction: Games/Bloxburg/intro.md
+      - Auto Build: Games/Bloxburg/autobuild.md
+      - Auto Farm: Games/Bloxburg/autofarm.md
