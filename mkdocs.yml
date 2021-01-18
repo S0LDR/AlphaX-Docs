@@ -3,6 +3,8 @@ site_name: Alpha X Documentation
 theme:
   name: 'material'
   custom_dir: 'theme'
+  favicon: images/favicon.png
+  logo: assets/logo.png
   palette:
     primary: 'green'
     accent: 'light green'
@@ -10,6 +12,9 @@ theme:
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
+
+markdown_extensions:
+  - meta
 
 nav:
   - index.md
