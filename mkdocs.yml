@@ -18,12 +18,14 @@ markdown_extensions:
   - meta
   - pymdownx.highlight
   - pymdownx.superfences
+  - attr_list
 
 plugins:
   - search
 
 nav:
   - index.md
+  - discord.md
   - supported.md
   - Games:
     - Bloxburg:
