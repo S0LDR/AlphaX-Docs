@@ -2,7 +2,7 @@
 
 ## Important Note
 
-You **can not** convert youtube videos to base IDs, nor can you prevent pictures. If you really think you can, I reccommend not using the script as your stupidity will get yourself ***banned permanently*** from Bloxburg, and we can't do anything about it when you come crying to us.
+You **can not** convert youtube videos to base IDs, nor can you prevent pictures. If you really think you can,  I recommend against using this script because you may get yourself ***banned permanently*** and we can't help you when that happens.
 
 ## Saving A Base
 
@@ -11,6 +11,7 @@ To save someone's base, you go near their base so it is in render distance, then
 ## Finding an ID from the Forums
 
 To get the id, click and drag on the id in the forums so it it highlighted, then  ++ctrl+c++  to copy it.
+[Base Catalog](https://forums.applebee1558.com/c/alpha-x/alpha-x-base-sharing/13)
 
 ## Loading A Base
 
