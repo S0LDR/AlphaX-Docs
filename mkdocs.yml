@@ -30,7 +30,7 @@ nav:
   - supported.md
   - Games:
     - Bloxburg:
-      - Introduction: Games/Bloxburg/intro.md
-      - Ban Risk: Games/Bloxburg/banrisk.md
-      - Auto Build: Games/Bloxburg/autobuild.md
-      - Auto Farm: Games/Bloxburg/autofarm.md
+      - Introduction: Bloxburg/intro.md
+      - Ban Risk: Bloxburg/banrisk.md
+      - Auto Build: Bloxburg/autobuild.md
+      - Auto Farm: Bloxburg/autofarm.md

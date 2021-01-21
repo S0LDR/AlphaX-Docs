@@ -1,4 +1,4 @@
-# Supported Executors
+# Supported Executors & Games
 
 ```
 - Free Supported Executors -
@@ -9,4 +9,20 @@
 [+] Protosmasher [90-100% Support]
 [+] Sirhurt/Asshurt [90-100% Support]
 [+] Sentinel [50% Support]
+```
+
+```
+- Supported Games -
+[+] Phantom Forces
+[+] Lumber Tycoon 2
+[+] Welcome To Bloxburg
+[+] RoBeats
+[+] Adopt Me
+[+] Ragdoll engine
+[+] Strucid
+[+] Tower Of Hell
+[+] Prison Life 2
+[+] Bad Business
+[+] Sound Space
+[+] Many more coming soon!
 ```
