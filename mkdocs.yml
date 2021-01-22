@@ -29,8 +29,26 @@ nav:
   - discord.md
   - supported.md
   - Games:
+    - Adopt Me:
+      - Introduction: games/AdoptMe/intro.md
+    - Bad Business:
+      - Introduction: games/BadBusiness/intro.md
     - Bloxburg:
-      - Introduction: Bloxburg/intro.md
-      - Ban Risk: Bloxburg/banrisk.md
-      - Auto Build: Bloxburg/autobuild.md
-      - Auto Farm: Bloxburg/autofarm.md
+      - Introduction: games/Bloxburg/intro.md
+      - Ban Risk: games/Bloxburg/banrisk.md
+      - Auto Build: games/Bloxburg/autobuild.md
+      - Auto Farm: games/Bloxburg/autofarm.md
+    - Lumber Tycoon 2:
+      - Introduction: games/LumberTycoon2/intro.md
+    - Phantom Forces:
+      - Introduction: games/PhantomForces/intro.md
+    - Ragdoll Engine:
+      - Introduciton: games/RagdollEngine/intro.md
+    - RoBeats:
+      - Introduction: games/RoBeats/intro.md
+    - Sound Space:
+      - Introduction: games/SoundSpace/intro.md
+    - Strucid:
+      - Introduction: games/Strucid/intro.md
+    - Tower of Hell:
+      - Introduction: games/TowerOfHell/intro.md
