@@ -9,11 +9,17 @@
 
 *Risk = Ban Chance*
 
-**Low Risk:** Paycheck Logging is at a minimum, These are the best to use!
+- **Low Risk:** 
+    
+    > Paycheck Logging is at a minimum, These are the best to use!
 
-**Moderate Risk:** Possibly Paycheck Logging, we are unsure, it's risky to use these!
+- **Moderate Risk:** 
+    
+    > Possibly Paycheck Logging, we are unsure, it's risky to use these!
 
-**High Risk:** Paycheck Logging is excessive, lots of people get banned using these!
+- **High Risk:** 
+    
+    > Paycheck Logging is excessive, lots of people get banned using these!
 
 |Job                |Risk      |
 |-------------------|----------|
