@@ -40,6 +40,13 @@ nav:
       - Auto Farm: games/Bloxburg/autofarm.md
     - Lumber Tycoon 2:
       - Introduction: games/LumberTycoon2/intro.md
+      - Local: games/LumberTycoon2/local.md
+      - Players: games/LumberTycoon2/players.md
+      - Misc: games/LumberTycoon2/misc.md
+      - Woods: games/LumberTycoon2/woods.md
+      - Items: games/LumberTycoon2/items.md
+      - Auto Build: games/LumberTycoon2/autobuild.md
+      - Base Drop: games/LumberTycoon2/basedrop.md
     - Phantom Forces:
       - Introduction: games/PhantomForces/intro.md
     - Ragdoll Engine:

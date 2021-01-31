@@ -128,7 +128,7 @@ To use the Wood Cutter AutoFarm:
 
 3. It will automatically start!
 
-*As soon as you spawn, you will fly to a tree and cut it down,this process is repeated.*
+*As soon as you spawn, you will fly to a tree and cut it down, this process is repeated.*
 > **Disable the Wood Cutter AutoFarm to STOP!**
 
 ## Cleaner

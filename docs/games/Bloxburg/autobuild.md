@@ -23,6 +23,10 @@ To load a base, get an ID that you want to load. Paste it into the "**ID**" box 
 
 Then, press the load base button and watch it build. (might take a while lol)
 
+## Video Tutorial
+
+https://youtu.be/CIyARbW0-ts
+
 ## Images
 
 ![](https://cdn.soldexe.tk/pb3NnCqf.png)

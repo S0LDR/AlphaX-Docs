@@ -23,11 +23,11 @@
 
 |Job                |Risk      |
 |-------------------|----------|
-|Miner              |Low       |
-|Mike's Mechanic    |Low       |
 |Fisher             |Low       |
-|Cleaner            |Low       |
-|Stock Manager      |Low       |
+|Mike's Mechanic    |Moderate  |
+|Miner              |Moderate  |
+|Cleaner            |Moderate  |
+|Stock Manager      |Moderate  |
 |Pizza Delivery     |Moderate  |
 |Hairdresser        |High      |
 |Pizza Baker        |High      |
