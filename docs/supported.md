@@ -2,7 +2,7 @@
 
 ```
 - Free Supported Executors -
-[+] KRNL [90% Support *] - We all hate this executor, you get NO support at all if you use this.
+[+] KRNL [90% Support *]
 [+] Fluxus [50% Support]
 
 - Paid Supported Executors -
