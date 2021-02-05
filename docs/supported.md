@@ -11,6 +11,7 @@
 [+] Sirhurt/Asshurt [90-100% Support]
 [+] Sentinel [50% Support]
 
+[*] Script-Ware [Unknown Support (new exploit)]
 
 *May encounter instability, but works.
 ```
