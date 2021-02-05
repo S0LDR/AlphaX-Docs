@@ -3,6 +3,7 @@
 ```
 - Free Supported Executors -
 [+] KRNL [50% Support] - We all hate this executor, you get NO support at all if you use this.
+[+] Fluxus [50% Support]
 
 - Paid Supported Executors -
 [+] Synapse X [100% Support] - Recommended!
