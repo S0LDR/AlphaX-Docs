@@ -16,6 +16,27 @@
 *May encounter instability, but works.
 ```
 
+## NEEDED FOR SCRIPT-WARE
+
+```lua
+local Environment = getgenv()
+
+Environment.http_request = http.request
+Environment.KRNL_LOADED = true
+Environment.get_thread_context = getidentity 
+Environment.set_thread_context = setidentity 
+
+local check_caller = Environment.checkcaller 
+
+Environment.checkcaller = function() 
+    if game.PlaceId == 185655149 then 
+        return true 
+    end 
+
+    return check_caller()
+end
+```
+
 ```
 - Supported Games -
 [+] Phantom Forces
