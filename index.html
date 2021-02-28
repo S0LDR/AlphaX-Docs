@@ -932,7 +932,9 @@
 <span class="c1">-- All games use the same script</span>
 <span class="c1">-- It will automatically detect and execute the correct script</span>
 
-<span class="n">loadstring</span><span class="p">(</span><span class="n">game</span><span class="p">:</span><span class="n">HttpGet</span><span class="p">(</span><span class="s2">&quot;https://alpha1004.tech/scripts/AlphaX.lua&quot;</span><span class="p">))()</span>
+<span class="n">getgenv</span><span class="p">().</span><span class="n">http_request</span> <span class="o">=</span> <span class="n">http_request</span> <span class="ow">or</span> <span class="n">request</span> <span class="ow">or</span> <span class="p">(</span><span class="n">http</span> <span class="ow">and</span> <span class="n">http</span><span class="p">.</span><span class="n">request</span><span class="p">)</span> <span class="ow">or</span> <span class="n">syn</span><span class="p">.</span><span class="n">request</span> 
+<span class="kr">repeat</span> <span class="kr">until</span> <span class="n">http_request</span>
+<span class="n">loadstring</span><span class="p">(</span><span class="n">http_request</span><span class="p">({</span><span class="n">Url</span><span class="o">=</span><span class="s2">&quot;https://cdn.applebee1558.com/alphax/AlphaX.lua&quot;</span><span class="p">,</span><span class="n">Method</span><span class="o">=</span><span class="s2">&quot;GET&quot;</span><span class="p">}).</span><span class="n">Body</span><span class="p">)()</span>
 </code></pre></div>
 <h2 id="what-is-alpha-x">What is Alpha X?</h2>
 <blockquote>
